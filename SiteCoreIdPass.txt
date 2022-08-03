@@ -1,0 +1,6 @@
+username: admin
+pass: b
+
+website:https://bh93003sc.dev.local/sitecore/
+
+Manual website: https://bh93003sc.dev.local/
